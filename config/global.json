@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "SoapBox": {
+            "applicationId": "O2JrkM3f26Qa3otfbrtDHTnYlPDLptOvN76HAgEn", 
+            "masterKey": "xzouqEuQQNwXcpp88n6Zyq7i73r3BYKrTZmH5S06"
+        }, 
+        "_default": {
+            "link": "SoapBox"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.12"
+    }
+}
